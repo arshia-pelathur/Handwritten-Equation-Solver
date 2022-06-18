@@ -20,13 +20,19 @@ than type it on a computer. A machine learning enabled handwritten equation solv
 1. Importing Libraries
 
 2. Data preprocessing
+     
       2.1 Image Data generator
+      
       2.2 Creating Train Set
+      
       2.3 Creating Validation Set
 
 3. Model Building
+      
       3.1 Model 1
+      
       3.2 Model 2
+      
       3.3 Model 3
 
 4. Saving the weights
@@ -36,8 +42,11 @@ than type it on a computer. A machine learning enabled handwritten equation solv
 6. Creating label maps for the classes
 
 7. Model Evaluation
+      
       7.1 Test Case 1
+      
       7.2 Test Case 2
+      
       7.3 Test Case 3
 
 
